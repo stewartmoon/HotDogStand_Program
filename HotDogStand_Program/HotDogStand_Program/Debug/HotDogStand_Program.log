@@ -1,0 +1,4 @@
+﻿  HotDogStand_Source.cpp
+c:\users\stewartmoon\desktop\hotdogstand_program\hotdogstand_program\hotdogstand_source.cpp(50): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  HotDogStand_Program.vcxproj -> C:\Users\StewartMoon\Desktop\HotDogStand_Program\Debug\HotDogStand_Program.exe
+  HotDogStand_Program.vcxproj -> C:\Users\StewartMoon\Desktop\HotDogStand_Program\Debug\HotDogStand_Program.pdb (Full PDB)
